@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Fellype Moura",
+            "email": "feehmoura03@gmail.com"
+        }, {
+            "id": 2,
+            "name": "Giuliana ranieri",
+            "email": "feehmoura013@mgmail.com"
+        }
+    ]
+}
