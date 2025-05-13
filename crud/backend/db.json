@@ -11,9 +11,14 @@
       "email": "feehmoura013@mgmail.com"
     },
     {
-      "name": "jose",
+      "name": "jose teste",
       "email": "jose@gmail.com.br",
       "id": 3
+    },
+    {
+      "name": "novo usario ",
+      "email": "novo@gmail.com",
+      "id": 4
     }
   ]
 }
